@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(236, 236, 183, 0.76);
+}
+
+
+
+img{
+    width: 250px;
+}
+
+.info{
+margin-left: 500px;
+
+
+
+}
+
+h1,h2,h3,h4,h5{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.menu{
+    position: fixed;
+    font-size: 40px;
+
+
+}
+
+#history{
+    background-color: brown;
+    color: beige;
+}
+#squad{
+    background-color: rgba(56, 56, 170, 0.973);
+    color: beige;
+}
+
+#stadium{
+    background-color: rgba(151, 106, 192, 0.767);
+    color: beige;
+}
+#coach{
+    background-color: rgba(63, 75, 32, 0.747);
+    color: white;
+}
+
+#gey{
+    background-color: rgba(0, 0, 0, 0.432);
+    color: bisque;
+}
